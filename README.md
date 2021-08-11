@@ -33,5 +33,5 @@
 
 ---
 
-[website]: https://codeSTACKr.com
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: http://dimetriushightower.com/
+[linkedin]: https://www.linkedin.com/in/dimetriushightower/
