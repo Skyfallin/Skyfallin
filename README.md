@@ -1,7 +1,7 @@
 
 ## Hi! I'm Dimetrius
 
-- 🔮 I run an MMORPG-themed Minecraft server! Check it out: [https://runicrealms.com/]
+- 🔮 I run an MMORPG-themed Minecraft server! Check it out: [Runic Realms](https://runicrealms.com/)
 - 📚 I enjoy reading fantasy in my free time
 - 🎷 Fun fact: I love to play the tenor saxophone
 
