@@ -16,7 +16,7 @@
   
 <div align="center">
   
-[![Wrath-cyber's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyfallin&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![Wrath-cyber's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyfallin&show_icons=true&theme=blueberry&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyfallin&layout=compact&theme=blueberry)](https://github.com/Wrath-cyber/github-readme-stats)
 
