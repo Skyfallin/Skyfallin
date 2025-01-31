@@ -18,8 +18,8 @@ I'm a frontend developer and React alchemist with a talent for building engaging
 ---
 
 ## 🌍 Connect With Me
-[![Website](https://img.shields.io/badge/-Portfolio-222222?style=for-the-badge&logo=globe&logoColor=white)](https://www.ddhightower.com/)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimetriushightower/)  
+[![Website](https://img.shields.io/badge/-Portfolio-222222?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.ddhightower.com/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=invision&logoColor=white)](https://www.linkedin.com/in/dimetriushightower/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skyfallin)  
 
 Let’s build something magical. **Open to full-time, contract, or freelance work.**
