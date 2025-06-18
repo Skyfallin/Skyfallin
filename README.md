@@ -27,7 +27,7 @@ Let’s build something magical. **Open to full-time, contract, or freelance wor
 ---
 
 ## 🔥 GitHub Stats
-![Dimetrius's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyfallin&show_icons=true&theme=transparent&hide_rank=true)
+![Dimetrius's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyfallin&show_icons=true&theme=dark&hide_rank=true)
 
 ---
 
