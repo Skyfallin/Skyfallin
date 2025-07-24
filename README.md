@@ -1,4 +1,4 @@
-# 📜 Hi, I'm Dimetrius — The Frontend Alchemist 🔮
+# 📜 Hi, I'm Dimetrius
 > *"Coding isn't about computers. It's about people."*
 
 I'm a full stack developer with a talent for building engaging, high-performance web and mobile apps.
